@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code for "Abdominal Computed Tomography Radiomics-Based
+  Classification of Bone Mineral Density"
+message: >-
+  If you use this code, please cite the associated journal article.
+type: software
+authors:
+  - given-names: Bow
+    family-names: Wang
+    orcid: 'https://orcid.org/0000-0002-0551-2983'
+    affiliation: >-
+      Department of Diagnostic Radiology, National Cheng Kung University
+      Hospital, College of Medicine, National Cheng Kung University, Tainan,
+      Taiwan
+  - given-names: Yu-Hsuan
+    family-names: Lai
+    orcid: 'https://orcid.org/0000-0002-0578-7864'
+    affiliation: >-
+      Department of Radiation Oncology, National Cheng Kung University
+      Hospital, College of Medicine, National Cheng Kung University, Tainan,
+      Taiwan
+  - given-names: Cheng-Shih
+    family-names: Lai
+    orcid: 'https://orcid.org/0000-0002-3670-0485'
+    affiliation: >-
+      Department of Diagnostic Radiology, National Cheng Kung University
+      Hospital, College of Medicine, National Cheng Kung University, Tainan,
+      Taiwan
+  - given-names: Chien-Kuo
+    family-names: Wang
+    orcid: 'https://orcid.org/0000-0001-8887-2935'
+    affiliation: >-
+      Department of Diagnostic Radiology, National Cheng Kung University
+      Hospital, College of Medicine, National Cheng Kung University, Tainan,
+      Taiwan
+  - given-names: Ta-Wei
+    family-names: Tai
+    orcid: 'https://orcid.org/0000-0002-6735-4861'
+    affiliation: >-
+      Department of Orthopedics, National Cheng Kung University Hospital,
+      Tainan, Taiwan
+  - given-names: Yi-Shan
+    family-names: Tsai
+    orcid: 'https://orcid.org/0000-0002-0898-9250'
+    affiliation: >-
+      Department of Diagnostic Radiology, National Cheng Kung University
+      Hospital, College of Medicine, National Cheng Kung University, Tainan,
+      Taiwan
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Abdominal Computed Tomography Radiomics-Based Classification of Bone
+    Mineral Density
+  journal: BMC Medical Imaging
+  authors:
+    - given-names: Bow
+      family-names: Wang
+      orcid: 'https://orcid.org/0000-0002-0551-2983'
+    - given-names: Yu-Hsuan
+      family-names: Lai
+      orcid: 'https://orcid.org/0000-0002-0578-7864'
+    - given-names: Cheng-Shih
+      family-names: Lai
+      orcid: 'https://orcid.org/0000-0002-3670-0485'
+    - given-names: Chien-Kuo
+      family-names: Wang
+      orcid: 'https://orcid.org/0000-0001-8887-2935'
+    - given-names: Ta-Wei
+      family-names: Tai
+      orcid: 'https://orcid.org/0000-0002-6735-4861'
+    - given-names: Yi-Shan
+      family-names: Tsai
+      orcid: 'https://orcid.org/0000-0002-0898-9250'
